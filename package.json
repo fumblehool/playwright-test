@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "prestart": "playwright test",
-    "postbuild": "playwright install-deps",
     "build": "npm install"
   },
   "keywords": [],
